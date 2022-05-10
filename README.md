@@ -1,5 +1,7 @@
 # Blog REST API
 
+Blog realizado con Flask de Python, utilizando librerias como Flask-RESTful, Flask-SQLAlchemy, Flask-Marshmallow. Base de datos: SQLite
+
 Realizar un entorno virtual y ejecutar requirements.txt: 
 
 - $ python3 -m virtualenv env
